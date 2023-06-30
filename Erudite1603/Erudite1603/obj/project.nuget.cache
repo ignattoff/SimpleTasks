@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6QwauQXlMjPztVgZif7cBiNL15JRygj6gNZAb/vJD70avHaR1+mWfM9befiQljftJ95fEtbHTtM9pyz55uFGcQ==",
+  "dgSpecHash": "MCUHVpHVJHxD8DVixltb4B477GQ5fFOllSZGVzAZL3eziwYnxqSCcbwr6hPFSri9HHgSEs7lD7lR2VF8SV0TJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.ignatov\\RiderProjects\\Erudite1603\\Erudite1603\\Erudite1603.csproj",
+  "projectFilePath": "C:\\Users\\m.ignatov\\source\\rider\\git\\SimpleTasks\\SimpleTasks\\Erudite1603\\Erudite1603\\Erudite1603.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\m.ignatov\\.nuget\\packages\\microsoft.codecoverage\\17.6.3\\microsoft.codecoverage.17.6.3.nupkg.sha512",
     "C:\\Users\\m.ignatov\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.3\\microsoft.net.test.sdk.17.6.3.nupkg.sha512",

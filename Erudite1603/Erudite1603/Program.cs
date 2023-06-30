@@ -60,19 +60,16 @@ namespace Erudite1603
                         CheckAndCreateElement(monoArray[e.Key - 1], e.Key - 1);
                         AddLink(e.Key, e.Key - 1);
                     }
-
                     if (e.Key % len < len - 1)
                     {
                         CheckAndCreateElement(monoArray[e.Key + 1], e.Key + 1);
                         AddLink(e.Key, e.Key + 1);
                     }
-
                     if (e.Key - len >= 0)
                     {
                         CheckAndCreateElement(monoArray[e.Key - len], e.Key - len);
                         AddLink(e.Key, e.Key - len);
                     }
-
                     if (monoArray.Count - len - e.Key > 0)
                     {
                         CheckAndCreateElement(monoArray[e.Key + len], e.Key + len);
